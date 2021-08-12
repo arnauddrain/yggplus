@@ -1,7 +1,7 @@
 {
 	"name": "YGG Plus",
-	"version": "1.1",
-	"description": "Add buttons to ygg torrent",
+	"version": "1.2",
+	"description": "Add downloads buttons to ygg torrent",
 	"icons": {
 		"128": "128.png"
 	},
@@ -12,9 +12,9 @@
 				"yggplus.js"
 			],
 			"matches": [
-				"https://yggtorrent.li/*",
-				"https://www.yggtorrent.li/*",
-				"https://www4.yggtorrent.li/*"
+				"https://yggtorrent.nz/*",
+				"https://www.yggtorrent.nz/*",
+				"https://www3.yggtorrent.nz/*"
 			]
 		}
 	],

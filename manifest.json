@@ -12,9 +12,9 @@
 				"yggplus.js"
 			],
 			"matches": [
-				"https://yggtorrent.nz/*",
-				"https://www.yggtorrent.nz/*",
-				"https://www3.yggtorrent.nz/*"
+				"https://yggtorrent.re/*",
+				"https://www.yggtorrent.re/*",
+				"https://www3.yggtorrent.re/*"
 			]
 		}
 	],

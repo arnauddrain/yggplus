@@ -1,22 +1,20 @@
 {
-	"name": "YGG Plus",
-	"version": "1.4",
-	"description": "Add downloads buttons to ygg torrent",
-	"icons": {
-		"128": "128.png"
-	},
-	"content_scripts": [
-		{
-			"all_frames": true,
-			"js": [
-				"yggplus.js"
-			],
-			"matches": [
-				"https://yggtorrent.re/*",
-				"https://www.yggtorrent.re/*",
-				"https://www3.yggtorrent.re/*"
-			]
-		}
-	],
-	"manifest_version": 2
+  "name": "YGG Plus",
+  "version": "1.4",
+  "description": "Add downloads buttons to ygg torrent",
+  "icons": {
+    "128": "128.png"
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": ["yggplus.js"],
+      "matches": [
+        "https://yggtorrent.re/*",
+        "https://www.yggtorrent.re/*",
+        "https://www3.yggtorrent.re/*"
+      ]
+    }
+  ],
+  "manifest_version": 2
 }

@@ -10,9 +10,9 @@
       "all_frames": true,
       "js": ["yggplus.js"],
       "matches": [
-        "https://yggtorrent.re/*",
-        "https://www.yggtorrent.re/*",
-        "https://www3.yggtorrent.re/*"
+        "https://yggtorrent.la/*",
+        "https://www.yggtorrent.la/*",
+        "https://www3.yggtorrent.la/*"
       ]
     }
   ],

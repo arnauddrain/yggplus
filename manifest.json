@@ -12,7 +12,8 @@
       "matches": [
         "https://yggtorrent.la/*",
         "https://www.yggtorrent.la/*",
-        "https://www3.yggtorrent.la/*"
+        "https://www3.yggtorrent.la/*",
+        "https://www5.yggtorrent.la/*"
       ]
     }
   ],

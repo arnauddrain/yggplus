@@ -10,12 +10,12 @@
       "all_frames": true,
       "js": ["yggplus.js"],
       "matches": [
-        "https://yggtorrent.la/*",
-        "https://www.yggtorrent.la/*",
-        "https://www3.yggtorrent.la/*",
-        "https://www5.yggtorrent.la/*"
+        "https://yggtorrent.fi/*",
+        "https://www.yggtorrent.fi/*",
+        "https://www3.yggtorrent.fi/*",
+        "https://www5.yggtorrent.fi/*"
       ]
     }
   ],
-  "manifest_version": 2
+  "manifest_version": 3
 }

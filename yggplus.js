@@ -19,7 +19,7 @@ function checkData() {
         const id = name.substr(0, name.indexOf("-"));
 
         td.innerHTML =
-          '<a href="https://www3.yggtorrent.qa/engine/download_torrent?id=' +
+          '<a href="https://www3.yggtorrent.cool/engine/download_torrent?id=' +
           id +
           '">Télécharger</a>';
         row.appendChild(td);

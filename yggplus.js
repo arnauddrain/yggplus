@@ -10,7 +10,6 @@ function checkData() {
       th.colSpan = 1;
       th.innerText = "Actions";
       table.tHead.rows[0].appendChild(th);
-
       for (let row of table.tBodies[0].rows) {
         let td = document.createElement("td");
 

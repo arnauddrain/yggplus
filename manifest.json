@@ -14,7 +14,12 @@
         "https://www.ygg.re/*",
         "https://www3.ygg.re/*",
         "https://www5.ygg.re/*",
-        "https://www6.ygg.re/*"
+        "https://www6.ygg.re/*",
+                "https://yggtorrent.top/*",
+        "https://www.yggtorrent.top/*",
+        "https://www3.yggtorrent.top/*",
+        "https://www5.yggtorrent.top/*",
+        "https://www6.yggtorrent.top/*"
       ]
     }
   ],

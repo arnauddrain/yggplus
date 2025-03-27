@@ -10,7 +10,6 @@ function checkData() {
       th.colSpan = 1;
       th.innerText = "Actions";
       table.tHead.rows[0].appendChild(th);
-
       for (let row of table.tBodies[0].rows) {
         let td = document.createElement("td");
 
@@ -19,7 +18,7 @@ function checkData() {
         const id = name.substr(0, name.indexOf("-"));
 
         td.innerHTML =
-          '<a href="https://www.ygg.re/engine/download_torrent?id=' +
+          '<a href="https://www.yggtorrent.top/engine/download_torrent?id=' +
           id +
           '">Télécharger</a>';
         row.appendChild(td);

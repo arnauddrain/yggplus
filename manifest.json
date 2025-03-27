@@ -10,11 +10,11 @@
       "all_frames": true,
       "js": ["yggplus.js"],
       "matches": [
-        "https://ygg.re/*",
-        "https://www.ygg.re/*",
-        "https://www3.ygg.re/*",
-        "https://www5.ygg.re/*",
-        "https://www6.ygg.re/*"
+        "https://ygg.top/*",
+        "https://www.ygg.top/*",
+        "https://www3.ygg.top/*",
+        "https://www5.ygg.top/*",
+        "https://www6.ygg.top/*"
       ]
     }
   ],

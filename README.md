@@ -1,3 +1,9 @@
+# Notice ⚠️
+
+Because of the new turbo mode of yggtorrent, this extension is not usable anymore.
+
+Thank you to all the people who contributed to updating the extension after the domain name changes over the year.
+
 # yggplus
 
 A plugin for YGG torrent interface.
